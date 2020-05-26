@@ -1,4 +1,4 @@
-baseURL = "https://github.com/drakemax/hugo-public/"
+baseURL = "https://drakemax.github.io/hugo-ghostwriter-blog/"
 
 languageCode = "en-us"
 title = "My Hugo Blog Test Site"

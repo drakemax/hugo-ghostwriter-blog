@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Hugo Blog Test Site</title>
-    <link>https://github.com/drakemax/hugo-public/tags/</link>
+    <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/</link>
     <description>Recent content in Tags on My Hugo Blog Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/drakemax/hugo-public/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drakemax.github.io/hugo-ghostwriter-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>https://github.com/drakemax/hugo-public/tags/development/</link>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://github.com/drakemax/hugo-public/tags/development/</guid>
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://github.com/drakemax/hugo-public/tags/go/</link>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://github.com/drakemax/hugo-public/tags/go/</guid>
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://github.com/drakemax/hugo-public/tags/golang/</link>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://github.com/drakemax/hugo-public/tags/golang/</guid>
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://github.com/drakemax/hugo-public/tags/templates/</link>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://github.com/drakemax/hugo-public/tags/templates/</guid>
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://github.com/drakemax/hugo-public/tags/themes/</link>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>https://github.com/drakemax/hugo-public/tags/themes/</guid>
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://github.com/drakemax/hugo-public/tags/hugo/</link>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/drakemax/hugo-public/tags/hugo/</guid>
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/tags/hugo/</guid>
       <description></description>
     </item>
     
