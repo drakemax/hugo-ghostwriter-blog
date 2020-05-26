@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drakemax.github.io/hugo-ghostwriter-blog/</loc>
+    <lastmod>2020-05-23T17:44:52+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drakemax.github.io/hugo-ghostwriter-blog/posts/</loc>
+    <lastmod>2020-05-23T17:44:52+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drakemax.github.io/hugo-ghostwriter-blog/posts/second-post/</loc>
+    <lastmod>2020-05-23T17:44:52+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drakemax.github.io/hugo-ghostwriter-blog/posts/first-post/</loc>
+    <lastmod>2020-05-23T17:44:39+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drakemax.github.io/hugo-ghostwriter-blog/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://drakemax.github.io/hugo-ghostwriter-blog/page/contact/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drakemax.github.io/hugo-ghostwriter-blog/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
@@ -34,11 +49,6 @@
   
   <url>
     <loc>https://drakemax.github.io/hugo-ghostwriter-blog/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drakemax.github.io/hugo-ghostwriter-blog/posts/</loc>
     <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   

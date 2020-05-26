@@ -6,10 +6,29 @@
     <description>Recent content on My Hugo Blog Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 17:44:52 +1200</lastBuildDate>
     
 	<atom:link href="https://drakemax.github.io/hugo-ghostwriter-blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/posts/second-post/</link>
+      <pubDate>Sat, 23 May 2020 17:44:52 +1200</pubDate>
+      
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/posts/second-post/</guid>
+      <description>Hong Kong Style Shrimp Chow Mein Noodles Hong Kong-style Shrimp Chow Mein Noodles are a classic Chinatown favorite. Slightly crispy and chewy pan-fried noodles combine with umami flavors of shrimp, Shiitake mushrooms, fresh mung bean sprouts, and scallions––everything gets tossed into a hot wok, to get the true MVP ingredient: that wok hay flavor.
+Here on the blog, we make a concerted effort to keep tabs and running lists on all of the dishes you request, from the familiar to the obscure.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://drakemax.github.io/hugo-ghostwriter-blog/posts/first-post/</link>
+      <pubDate>Sat, 23 May 2020 17:44:39 +1200</pubDate>
+      
+      <guid>https://drakemax.github.io/hugo-ghostwriter-blog/posts/first-post/</guid>
+      <description>This is my first post in Hugo Template ### This is my trying to get a Hugo blog up and running.</description>
+    </item>
     
     <item>
       <title>About</title>
