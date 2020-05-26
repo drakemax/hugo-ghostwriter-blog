@@ -1,8 +1,9 @@
----
-title: "First Post"
-date: 2020-05-23T17:44:39+12:00
-draft: false
----
++++
+title= "First Post"
+date= 2020-05-23T17:44:39+12:00
+draft= false
+author = "Max Drake"
++++
 
 # This is my first post in Hugo Template
 
