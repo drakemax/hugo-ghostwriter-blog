@@ -1,11 +1,12 @@
 +++
 title= "Second Post"
-date= 2020-05-23T17:44:52+12:00
+date= 2020-05-24
 draft= false
-author = "Max Drake"
+author = "Max Drake" 
 +++
+[//]:# (All of this seems to be required for comment, text is needed in between brackets)
+ # Hong Kong Style Shrimp Chow Mein Noodles
 
-# Hong Kong Style Shrimp Chow Mein Noodles
 
 Hong Kong-style Shrimp Chow Mein Noodles are a classic Chinatown favorite. Slightly crispy and chewy pan-fried noodles combine with umami flavors of shrimp, Shiitake mushrooms, fresh mung bean sprouts, and scallions––everything gets tossed into a hot wok, to get the true MVP ingredient: that wok hay flavor.
 

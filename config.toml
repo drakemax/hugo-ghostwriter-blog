@@ -1,22 +1,10 @@
 baseURL = "https://drakemax.github.io/hugo-ghostwriter-blog/"
 
 languageCode = "en-us"
-title = "My Hugo Blog Test Site"
+title = "Max's Hugo Blog Site"
 theme = "ghostwriter"
 publishDir= "docs"
 
-[menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -110
+    
 
-  [[menu.main]]
-    name = "getting started"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
-    weight = -100

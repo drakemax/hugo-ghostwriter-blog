@@ -3,6 +3,8 @@ title = "Contact"
 date = 2015-04-03T02:13:50Z
 author = "Max Drake"
 description = "drakemax@hotmail.com"
+menu= "main"
+weight= 15
 +++
 
 ## Contact
